@@ -8,6 +8,8 @@
 - 可配置为PWMI模式，同时测量频率和占空比
 - 可配合主从触发模式，实现硬件全自动测量
 
+<!--more-->
+
 ## 频率测量
 
 ![image-20240827150037917](https://picgo-1301260628.cos.ap-guangzhou.myqcloud.com/image-20240827150037917.png)

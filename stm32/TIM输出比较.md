@@ -11,6 +11,8 @@
 
 ![image-20240813111307049](https://picgo-1301260628.cos.ap-guangzhou.myqcloud.com/image-20240813111307049.png)
 
+<!--more-->
+
 ## PWM简介
 
 - PWM(Pulse Width Modulation) 脉冲宽度调制

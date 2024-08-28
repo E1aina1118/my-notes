@@ -1,4 +1,4 @@
-# TIM(Timer)定时器
+# TIM定时器
 
 ## TIM简介
 
